@@ -1,0 +1,341 @@
+.textAlignCenter {
+    text-align: center;
+}
+
+.textAlignLeft {
+    text-align: left;
+}
+
+.textAlignRight {
+    text-align: right;
+}
+
+.imageAlignCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button1{
+    background-color: #12d8ef;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.button1:hover {
+    background: #FFF307
+}
+
+.button2{
+    background-color: #FFF307;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.button2:hover {
+    background: #12d8ef
+}
+
+.youtubeButton{
+    background-color: #12d8ef;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.youtubeButton:hover span {
+    display:none
+}
+
+.youtubeButton:hover {
+    background-color: #FFF307;
+}
+
+.youtubeButton:hover:before {
+    content: "obvMath";
+    font-weight: bold;
+    text-align: center;
+}
+
+.discordButton{
+    background-color: #FFF307;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.discordButton:hover span {
+    display:none
+}
+
+.discordButton:hover {
+    background-color: #12d8ef;
+}
+
+.discordButton:hover:before {
+    content: "obvMath#0289";
+    font-weight: bold;
+    text-align: center;
+}
+
+.githubButton1{
+    background-color: #12d8ef;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.githubButton1:hover span {
+    display:none
+}
+
+.githubButton1:hover {
+    background-color: #FFF307;
+}
+
+.githubButton1:hover:before {
+    content: "@obvMath";
+    font-weight: bold;
+    text-align: center;
+}
+
+.githubButton2{
+    background-color: #12d8ef;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.githubButton2:hover span {
+    display:none
+}
+
+.githubButton2:hover {
+    background-color: #FFF307;
+}
+
+.githubButton2:hover:before {
+    content: "@MathDevelops";
+    font-weight: bold;
+    text-align: center;
+}
+
+.MDWebsiteButton{
+    background-color: #FFF307;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.MDWebsiteButton:hover span {
+    display:none
+}
+
+.MDWebsiteButton:hover {
+    background-color: #12d8ef;
+}
+
+.MDWebsiteButton:hover:before {
+    content: "mathdevelops.github.io";
+    font-weight: bold;
+    text-align: center;
+    font-size: 10px;
+}
+
+.hypixelButton{
+    background-color: #FFF307;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.hypixelButton:hover span {
+    display:none
+}
+
+.hypixelButton:hover {
+    background-color: #12d8ef;
+}
+
+.hypixelButton:hover:before {
+    content: "@obvMath";
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.pcButton{
+    background-color: #12d8ef;
+    border-radius: 8px;
+    border-width: 0;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+.pcButton:hover span {
+    display:none
+}
+
+.pcButton:hover {
+    background-color: #FFF307;
+}
+
+.pcButton:hover:before {
+    content: "Coming Soon";
+    font-weight: bold;
+    text-align: center;
+}
