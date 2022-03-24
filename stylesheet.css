@@ -339,3 +339,13 @@
     font-weight: bold;
     text-align: center;
 }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: inherit;
+    text-decoration: underline;
+}
