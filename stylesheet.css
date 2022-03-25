@@ -349,3 +349,20 @@ a:hover {
     color: inherit;
     text-decoration: underline;
 }
+
+.withinpythonopenup:hover:after {
+    content: " (Within Python, I have knowledge in discord.py, Pyautogui, and Asyncio - and I am always learning new things!)";
+    color: #00FF00;
+    
+}
+
+.withinpythonopenup:hover span {
+    display:none
+}
+
+html, body { height: 100%;}
+
+body > footer {
+    position: sticky;
+    top: 100vh;
+  }
