@@ -390,7 +390,7 @@ a:hover {
 }
 
 .withinpythonopenup:hover:after {
-    content: " (Within Python, I have knowledge in discord.py, Pyautogui, and Asyncio - and I am always learning new things!)";
+    content: " (Within Python, I have knowledge of discord.py, Pyautogui, and Asyncio - and I am always learning new things!)";
     color: #00FF00;
     
 }
