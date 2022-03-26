@@ -101,7 +101,7 @@
 }
 
 .websiteButton:hover {
-    background-color: #12d8ef;
+    transform: scale(1.15);
 }
 
 .websiteButton:hover:before {
@@ -140,7 +140,7 @@
 }
 
 .youtubeButton:hover {
-    background-color: #FFF307;
+    transform: scale(1.15);
 }
 
 .youtubeButton:hover:before {
@@ -178,7 +178,7 @@
 }
 
 .discordButton:hover {
-    background-color: #12d8ef;
+    transform: scale(1.15);
 }
 
 .discordButton:hover:before {
@@ -216,7 +216,7 @@
 }
 
 .githubButton1:hover {
-    background-color: #FFF307;
+    transform: scale(1.15);
 }
 
 .githubButton1:hover:before {
@@ -254,7 +254,7 @@
 }
 
 .githubButton2:hover {
-    background-color: #FFF307;
+    transform: scale(1.15);
 }
 
 .githubButton2:hover:before {
@@ -292,7 +292,7 @@
 }
 
 .MDWebsiteButton:hover {
-    background-color: #12d8ef;
+    transform: scale(1.15);
 }
 
 .MDWebsiteButton:hover:before {
@@ -331,7 +331,7 @@
 }
 
 .hypixelButton:hover {
-    background-color: #12d8ef;
+    transform: scale(1.15);
 }
 
 .hypixelButton:hover:before {
@@ -370,7 +370,7 @@
 }
 
 .pcButton:hover {
-    background-color: #FFF307;
+    transform: scale(1.15);
 }
 
 .pcButton:hover:before {
