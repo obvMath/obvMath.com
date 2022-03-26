@@ -12,14 +12,23 @@
 
     <b>Embedding webpages:</b>
     <br>
-    <iframe src="https://obvmath.github.io/about" width="960" height="540" frameborder="0"></iframe>
+    <iframe src="https://obvmath.github.io/about" width="640" height="360" frameborder="0"></iframe>
     <br><hr>
     <b>Embedding YouTube Videos:</b>
     <br>
-    <!-- This is copied directly from YouTube (YouTube video > right click > copy embed code --> <iframe width="960" height="540" src="https://www.youtube.com/embed/phTZ344afkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <!-- This is copied directly from YouTube (YouTube video > right click > copy embed code --> <iframe width="640" height="360" src="https://www.youtube.com/embed/phTZ344afkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br><hr>
+    <b>Alert Boxes:</b>
+    <br>
+    <button class="button1" onclick="popupAlert()">Click me!</button>
+    <script>
+        function popupAlert() {
+            alert("Hello world!")
+        }
+    </script>
 
-    <footer style="text-align: center;">
-        <a href=../../><button class="button1">Leave playground</button></a><br><br>
-    </footer>
+    <div style="position: fixed; bottom: 25px; right: 25px;">
+        <a href=../../><button class="button1"><b>Leave playground</b></button></a>
+    </div>
 
 </html>
