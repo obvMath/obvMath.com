@@ -405,3 +405,34 @@ body > footer {
     position: sticky;
     top: 100vh;
 }
+
+.cursorLoading {
+    cursor: wait;
+}
+
+.cursorHelp {
+    cursor: help;
+}
+
+.cursorCrosshair {
+    cursor: crosshair;
+}
+
+.cursorGrab {
+    cursor: grab;
+}
+
+.obvMathCursor {
+    cursor: url("images/obvMathCursor.png"), auto;
+}
+
+.fourohfour {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-family: Helvetica;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
