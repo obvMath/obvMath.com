@@ -105,7 +105,7 @@
 }
 
 .websiteButton:hover:before {
-    content: "obvMath.github.io";
+    content: "obvMath.com";
     font-weight: bold;
     text-align: center;
     font-size: 13px;
