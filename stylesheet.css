@@ -41,7 +41,7 @@
 }
 
 .button1:hover {
-    background: #FFF307
+    transform: scale(1.15);
 }
 
 .button2{
@@ -69,7 +69,7 @@
 }
 
 .button2:hover {
-    background: #12d8ef
+    transform: scale(1.15);
 }
 
 .websiteButton{
