@@ -1,2 +1,1 @@
-# obvMath.github.io
- 
+# [obvMath.com](https://obvmath.com)
