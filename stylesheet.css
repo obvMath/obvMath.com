@@ -116,7 +116,7 @@ body > footer {
 }
 
 .obvMathCursor {
-    cursor: url("images/obvMathCursor.png"), auto;
+    cursor: url("https://media.obvmath.com/obvMathCursor.png"), auto;
 }
 
 .fourohfour {
@@ -128,4 +128,9 @@ body > footer {
     text-align: center;
     color: white;
     text-decoration: none;
+}
+
+.headerImage {
+    vertical-align: middle;
+    text-align: center;
 }
