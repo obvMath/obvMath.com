@@ -17,9 +17,9 @@
                 <input type="text" id="searchBox" name="searchBox" placeholder="Search for something!" style="height: 40px; width: 350px; padding: 10px; border-radius: 8px; border-width: 0;">&MediumSpace;
                 <select name="engine" class="button6" style="height: 40px; width: 140px;">
                     <option selected>Google</option>
-                    <option>Bing</option>
+                    <!-- <option>Bing</option>
                     <option>DuckDuckGo</option>
-                    <option>YouTube</option>
+                    <option>YouTube</option> -->
                 </select>
                 <input type="submit" value="Go!" class="button5" style="font-weight: bold; height: 40px; width: 60px;">
             </form>
@@ -27,6 +27,7 @@
                 function search() {
                     var query = document.getElementById("searchBox")
                     location.href = "https://www.google.com/search?q=" + query
+                }
             </script>
         </div>
     </body>
